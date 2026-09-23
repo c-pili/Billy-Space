@@ -1,6 +1,6 @@
 # Billy-Space
 
-Projet d'objet connecté – 2ème année ESE (Électronique et Systèmes Embarqués)
+Projet etudiant d'une maquette de satellite – 2ème année ESE (Électronique et Systèmes Embarqués)  
 **Début du projet :** 22/09/2026
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
@@ -10,7 +10,7 @@ Projet d'objet connecté – 2ème année ESE (Électronique et Systèmes Embarq
 ---
 
 ## 📌 Description du projet
-Billy-Space est un système embarqué communicant développé dans le cadre de notre cursus en Génie Électronique et Informatique Industrielle (GEII - option ESE). Ce projet a pour objectif de concevoir et de déployer un objet connecté capable de [décrire brièvement la fonction principale : ex: collecter des données environnementales, communiquer via un protocole sans fil, etc.].
+Billy est le nom de notre maquette de satellit. C'est un systeme embarqué communicant développé dans le cadre de notre cursus en Génie Électronique et Informatique Industrielle (option ESE). Ce projet a pour objectif de concevoir et de déployer un objet connecté capable de communiquer divers donnees issue de capteurs via plusieurs protocoles. Le satellit embarquera une roue de reaction pour se tourner de maniere automatique vers le soleil.
 
 ---
 
