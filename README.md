@@ -1,7 +1,7 @@
 # Billy-Space
 
-Projet d'objet connecté – 2ème année ESE (Électronique et Systèmes Embarqués)[cite: 1]  
-**Début du projet :** 22/09/2026[cite: 1]
+Projet d'objet connecté – 2ème année ESE (Électronique et Systèmes Embarqués)
+**Début du projet :** 22/09/2026
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -15,5 +15,5 @@ Billy-Space est un système embarqué communicant développé dans le cadre de n
 ---
 
 ## 👥 Équipe
-* **Clément (c-pili)**[cite: 1]
-* **Jérémie (JeremiePerrin)**[cite: 1]
+* **Clément (c-pili)**
+* **Jérémie (JeremiePerrin)**
