@@ -10,7 +10,7 @@ Projet etudiant d'une maquette de satellite – 2ème année ESE (Électronique 
 ---
 
 ## 📌 Description du projet
-Billy est le nom de notre maquette de satellit. C'est un systeme embarqué communicant développé dans le cadre de notre cursus en Génie Électronique et Informatique Industrielle (option ESE). Ce projet a pour objectif de concevoir et de déployer un objet connecté capable de communiquer divers donnees issue de capteurs via plusieurs protocoles. Le satellit embarquera une roue de reaction pour se tourner de maniere automatique vers le soleil.
+Billy est le nom de notre maquette de satellite. Il s'agit d'un système embarqué communicant développé dans le cadre de notre cursus en Génie Électronique et Informatique Industrielle (option ESE). Ce projet a pour objectif de concevoir et de déployer un objet connecté capable de transmettre diverses données issues de capteurs via plusieurs protocoles de communication. Le satellite embarquera également une roue de réaction lui permettant de s'orienter automatiquement vers le Soleil.
 
 ---
 
